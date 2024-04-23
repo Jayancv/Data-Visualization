@@ -1,26 +1,93 @@
-job_title,count
-Research Scientist,475
-Analytics Engineer,403
-Applied Scientist,383
-Research Engineer,276
-Research Analyst,107
-BI Developer,84
-BI Analyst,43
-Decision Scientist,38
-Computer Vision Engineer,32
-ETL Developer,28
-Prompt Engineer,17
-NLP Engineer,15
-Deep Learning Engineer,12
-Insight Analyst,12
-Robotics Software Engineer,8
-Robotics Engineer,6
-Computer Vision Software Engineer,5
-Computational Biologist,4
-ETL Engineer,3
-Autonomous Vehicle Technician,2
-Analytics Engineering Manager,1
-Deep Learning Researcher,1
-Applied Research Scientist,1
-Power BI Developer,1
-Quantitative Research Analyst,1
+job_title,count,Replacement
+Data Engineer,3162,
+Data Scientist,3015,
+Data Analyst,2189,
+Data Architect,369,
+Data Science,205,
+Data Manager,188,
+Data Science Manager,114,
+Data Science Consultant,79,
+Data Specialist,78,
+Data Analytics Manager,56,
+Head of Data,49,
+Data Modeler,46,
+Director of Data Science,33,
+Data Developer,30,
+Data Product Manager,30,
+Data Science Lead,26,
+Data Strategist,24,
+Data Lead,24,
+Data Quality Analyst,24,
+Data Science Engineer,23,
+Data Operations Analyst,22,
+Business Data Analyst,21,
+Data Integration Specialist,21,
+Data Integration Engineer,20,
+BI Data Analyst,19,
+Data Analytics Lead,18,
+Data Infrastructure Engineer,16,
+Data Science Practitioner,16,
+Data Management Analyst,16,
+Data Operations Engineer,16,
+Applied Data Scientist,13,
+Cloud Database Engineer,13,
+Big Data Engineer,12,
+Head of Data Science,12,
+Data Visualization Specialist,12,
+Principal Data Scientist,10,
+Data Operations Specialist,10,
+Lead Data Scientist,10,
+Data Management Specialist,9,
+Data Analytics Consultant,8,
+Data Science Director,8,
+Lead Data Analyst,6,
+Data Product Owner,6,
+Product Data Analyst,6,
+Lead Data Engineer,6,
+Data Analytics Specialist,6,
+Data Quality Engineer,5,
+Data Analytics Engineer,5,
+Data Operations Associate,4,
+Data Strategy Manager,4,
+Data Science Analyst,4,
+Data Integration Developer,4,
+Financial Data Analyst,4,
+Cloud Data Engineer,4,
+Data Visualization Engineer,4,
+Data DevOps Engineer,3,
+Admin & Data Analyst,3,
+Principal Data Engineer,3,
+Staff Data Analyst,3,
+Software Data Engineer,3,
+Finance Data Analyst,3,
+Principal Data Analyst,2,
+Big Data Architect,2,
+Data Quality Manager,2,
+Compliance Data Analyst,2,
+Encounter Data Management Professional,2,
+Managing Director Data Science,2,
+Data Modeller,2,
+Data Reporting Analyst,2,
+Business Intelligence Data Analyst,2,
+Azure Data Engineer,2,
+Staff Data Scientist,2,
+Data Management Consultant,2,
+Data Scientist Lead,2,
+Data Pipeline Engineer,2,
+Data Visualization Analyst,2,
+Data Operations Manager,2,
+Data Analyst Lead,2,
+Marketing Data Analyst,2,
+Manager Data Management,1,
+BI Data Engineer,1,
+Sales Data Analyst,1,
+Consultant Data Engineer,1,
+Principal Data Architect,1,
+Marketing Data Engineer,1,
+Data Science Tech Lead,1,
+Big Data Developer,1,
+Marketing Data Scientist,1,
+Data Analytics Associate,1,
+Cloud Data Architect,1,
+AWS Data Architect,1,
+CRM Data Analyst,1,
